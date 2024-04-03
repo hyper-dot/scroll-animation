@@ -26,7 +26,7 @@ const Screen2 = () => {
         <div></div>
         <motion.div
           style={{ opacity }}
-          className="md:h-[420px] flex flex-col justify-end"
+          className="md:h-[400px] flex flex-col justify-end"
         >
           <div className="max-w-1/2 mx-auto space-y-4 text-white">
             <h1 className="font-bold">CAREERS</h1>
